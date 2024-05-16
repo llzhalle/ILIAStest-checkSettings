@@ -8,7 +8,9 @@ The script can be used as a bookmarklet on settings pages of ILIAS tests. You se
 
 # How to
 ## Prerequisite
-- Your ILIAS instance may need to adjust an adjustment of the content security policy settings regarding this script.
+
+- Tested with ILIAS 7.
+- Your ILIAS instance may need to adjust the content security policy settings regarding this script.
 - Save the script to a location that your ILIAS instance can access. 
 - Keep the direct link ready for later.
 

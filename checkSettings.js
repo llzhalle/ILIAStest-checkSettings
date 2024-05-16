@@ -1,6 +1,7 @@
 (function () {
 
   // by: @semelina | llz uni halle with the friendly support of chatGPT
+  // for ILIAS 7.x
   // version 2.0 | 2024-04-09
 
   // tl;dr howto: Look through the list of settings and change the number on the right according to what you want. 
