@@ -6,11 +6,13 @@ The script can be used as a bookmarklet on settings pages of ILIAS tests. You se
 
 ![Screenshot of the popup with the results of an ILIAS settings check.](checkSettings_Output.png)
 
-# How to
-## Prerequisite
-
-- Tested with ILIAS 7.
+# Prerequisite
+- Tested and working with ILIAS 7. 
+- ILIAS 8: Only works on first settings page (and so far no error message on the third).
+- Does NOT and WILL NOT work with ILIAS 9. 
 - Your ILIAS instance may need to adjust the content security policy settings regarding this script.
+
+# How to
 - Save the script to a location that your ILIAS instance can access. 
 - Keep the direct link ready for later.
 
